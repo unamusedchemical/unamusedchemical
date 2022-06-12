@@ -4,18 +4,18 @@
 	<img src="https://komarev.com/ghpvc/?username=unamusedchemical&label=Profile%20views&color=0e75b6&style=plastic" alt="unamusedchemical" /> 
 </p>
 
-## :sassy_man:  About me
+## :zap:  About me
 - :school: I am currently studying at Technology School Electronic Systems in Sofia, Bulgaria
-- :student: I’m currently learning `Rust` and `C++`.
+- :crab: I’m currently learning `Rust` and `C++`.
 - :desktop_computer: I'm planning on learning how to work with graphic api libraries like OpenGL
 
 <br>
 
 ## 🔥 Streak Stats
 [![Aleko's GitHub stats](https://github-readme-stats.vercel.app/api?username=unamusedchemical&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unamusedchemical)](https://git.io/streak-stats)
 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unamusedchemical)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
