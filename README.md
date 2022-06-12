@@ -1,4 +1,9 @@
 ![image](https://user-images.githubusercontent.com/61247544/173244965-66cb50f7-d9f9-47cb-9dbd-155f4172b98d.png)
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=unamusedchemical&label=Profile%20views&color=0e75b6&style=plastic" alt="unamusedchemical" /> 
+</p>
+
 <hr/>
 - 🌱 I’m currently learning Rust and C++ <br/>
 - 🔭 I'm planning on working with graphic api libraries like opengl
@@ -12,8 +17,6 @@
 <!--END_SECTION:waka-->
 
 <!-- space so it is on a newlinde -->
- ![](https://komarev.com/ghpvc/?username=unamusedchemical)
-
 <!--
 **unamusedchemical/unamusedchemical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
