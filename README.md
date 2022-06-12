@@ -6,8 +6,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-/
-![](https://komarev.com/ghpvc/?username=unamusedchemical)
+
+ ![](https://komarev.com/ghpvc/?username=unamusedchemical)
 
 <!--
 **unamusedchemical/unamusedchemical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
