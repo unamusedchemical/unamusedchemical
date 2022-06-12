@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/61247544/173244965-66cb50f7-d9f9-47cb-9dbd-155f4172b98d.png)
 <hr/>
 - 🌱 I’m currently learning Rust and C++
-
+<hr/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unamusedchemical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unamusedchemical)](https://git.io/streak-stats)
