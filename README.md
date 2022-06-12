@@ -14,7 +14,7 @@
 ## 🔥 Streak Stats
 [![Aleko's GitHub stats](https://github-readme-stats.vercel.app/api?username=unamusedchemical&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unamusedchemical&theme=algolia)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unamusedchemical&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <a href="https://github.com/unamusedchemical"><img alt="Aleko's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=unamusedchemical&custom_title=Aleko's%20Contribution%20Graph&theme=react-dark" /></a>
