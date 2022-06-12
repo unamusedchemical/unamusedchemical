@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/61247544/173244965-66cb50f7-d9f9-47cb-9dbd-155f4172b98d.png)
+<hr/>
+- 🌱 I’m currently learning Rust and C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unamusedchemical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,6 +9,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!-- space so it is on a newlinde -->
  ![](https://komarev.com/ghpvc/?username=unamusedchemical)
 
 <!--
