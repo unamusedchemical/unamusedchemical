@@ -13,9 +13,6 @@
 			I am currently studying at Technology School Electronic Systems in Sofia, Bulgaria
 		</li>
 		<li>
-			🦀 I’m currently learning <b>Rust</b> and <b>Rust</b>.
-		</li>
-		<li>
 			💻 I'm planning on learning how to work with graphic api libraries like OpenGL
 		</li>
 	</ul>
